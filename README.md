@@ -19,7 +19,7 @@ Full Stack Developer | UI/UX Enthusiast | Web Developer
 </p>
 
 🔭 About Me
-I'm a final-year Computer Science student at VIT Bhopal University, passionate about building robust and scalable web applications. My interests lie in modern web technologies and the full software development lifecycle, from designing and developing user interfaces to managing CI/CD pipelines. I love solving complex problems and am always eager to learn new technologies.
+I'm a final-year Computer Science student at VIT Bhopal University with a strong foundation in full-stack development. My passion lies in building robust and scalable web applications and automating the entire software development lifecycle, from code to deployment. I thrive on solving complex problems and am always eager to apply my skills in modern web technologies, cloud services, and CI/CD pipelines to drive real-world solutions.
 
 🛠️ Tech Stack & Tools
 <p align="center">
@@ -31,35 +31,43 @@ I'm a final-year Computer Science student at VIT Bhopal University, passionate a
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dwhite" alt="React Badge" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js Badge" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL Badge" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker Badge" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS Badge" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker Badge" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vite-646CFF%3Fstyle%3Dfor-the-badge%26logo%3Dvite%26logoColor%3Dwhite" alt="Vite Badge" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Storybook-FF4785%3Fstyle%3Dfor-the-badge%26logo%3Dstorybook%26logoColor%3Dwhite" alt="Storybook Badge" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git Badge" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Render-46E3B7%3Fstyle%3Dfor-the-badge%26logo%3Drender%26logoColor%3Dwhite" alt="Render Badge" />
 </p>
 
-🚀 Projects
-Aura Design System: A comprehensive, enterprise-grade design system built with TypeScript and React, featuring a reusable UI component library and an automated CI/CD pipeline.
+🚀 Key Projects
+Aura Design System
+Developed a comprehensive, enterprise-grade design system using TypeScript and React. I built a reusable UI component library with Vite and Storybook, supported by an automated Node.js-scripted CI/CD pipeline to ensure consistency and accelerate development across all web applications.
 
-Food Delivery Platform: A secure Node.js/PostgreSQL API serving a dynamic React single-page application, containerized with Docker for full CI/CD lifecycle management.
+Food Delivery Platform
+Engineered a full-stack food delivery application. The backend is a secure Node.js/PostgreSQL API with JWT authentication, serving a dynamic React front end. I used Docker and Docker Compose to containerize the entire application stack and managed a full CI/CD lifecycle for deployment to the Render cloud platform.
 
-Resume Portfolio Website: A personal portfolio to showcase my projects, skills, and experience, demonstrating proficiency in modern web development practices.
+Resume Portfolio Website
+Designed and deployed a personal portfolio website to showcase my technical skills, projects, and professional experience. This project demonstrates proficiency in modern web development practices and serves as a central hub for my work.
 
-💼 Experience
-Axxentraa NextGen Pvt Ltd - Business and Operations Intern | June 2025 - September 2025
+💼 Professional Experience
+Axxentraa NextGen Pvt Ltd | Business and Operations Intern
+June 2025 - September 2025
+Supported business operations and analytics, contributing to process optimization and strategic planning.
 
-Finlatics - Business Analyst Experience Certification
-
-India Space Lab - Winter Internship Training Program | December 2024 - January 2025
+India Space Lab | Winter Internship Training Program
+December 2024 - January 2025
+Participated in a hands-on training program, gaining exposure to advanced space technologies and research methodologies.
 
 🏅 Certifications & Achievements
-IIT Kharagpur, NPTEL: Cloud Computing and Marketing Analysis
+AWS Academy Graduate: Cloud Architecting (ETHNUS)
 
-Johns Hopkins University, Coursera: HTML, CSS, and JavaScript for Web Developers
+NPTEL, IIT Kharagpur: Cloud Computing and Marketing Analysis
+
+Coursera, Johns Hopkins University: HTML, CSS, and JavaScript for Web Developers
 
 Coursera: The Bits and Bytes of Computer Networking
 
 Finlatics: Business Analyst Experience Certification
-
-AWS Academy Cloud Architecting, ETHNUS: AWS Academy Graduate
 
 🎓 Education
 VIT Bhopal University: Bachelor of Technology in Computer Science (CSE Core) - CGPA: 8.63
