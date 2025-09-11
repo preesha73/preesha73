@@ -4,16 +4,16 @@ Full Stack Developer | UI/UX Enthusiast | Web Developer
 <a href="mailto:ptpk2810@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
 </a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/https://www.linkedin.com/in/preesha-vashisth-493008248/">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/preesha-vashisth-493008248/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
-<a href="https://github.com/https://github.com/preesha73">
+<a href="https://github.com/preesha73">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-<a href="https://leetcode.com/https://leetcode.com/u/PV132/">
+<a href="https://leetcode.com/PV132/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
   </a>
-<a href="https://www.google.com/search?q=https://www.hackerrank.com/profile/https://www.hackerrank.com/profile/ptpk2810">
+<a href="https://www.google.com/search?q=https://www.hackerrank.com/profile/ptpk2810">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" />
   </a>
 </p>
