@@ -65,8 +65,6 @@ NPTEL, IIT Kharagpur: Cloud Computing and Marketing Analysis
 
 Coursera, Johns Hopkins University: HTML, CSS, and JavaScript for Web Developers
 
-Coursera: The Bits and Bytes of Computer Networking
-
 Finlatics: Business Analyst Experience Certification
 
 🎓 Education
