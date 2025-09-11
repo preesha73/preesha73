@@ -23,7 +23,7 @@ Hi, I'm Preesha Vashisth! 👋</h1></p>
 
 <br><hr>
 🔭 About Me<br><br>
-I'm a final-year Computer Science student at VIT Bhopal University with a strong foundation in full-stack development. My passion lies in building robust and scalable web applications and automating the entire software development lifecycle, from code to deployment. I thrive on solving complex problems and am always eager to apply my skills in modern web technologies, cloud services, and CI/CD pipelines to drive real-world solutions.
+She is a final-year Computer Science student at VIT Bhopal University with a strong foundation in full-stack development. Her passion lies in building robust and scalable web applications and automating the entire software development lifecycle, from code to deployment. She thrives on solving complex problems and is always eager to apply her skills in modern web technologies, cloud services, and CI/CD pipelines to drive real-world solutions.
 <br><hr>
 
 🛠️ Tech Stack & Tools<br>
