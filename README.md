@@ -1,5 +1,8 @@
-Hi, I'm Preesha Vashisth! 👋
-Full Stack Developer | UI/UX Enthusiast | Web Developer
+<h1><p align="center">
+Hi, I'm Preesha Vashisth! 👋</h1></p>
+<p align="center">Full Stack Developer | CI/CD Enthusiast | AWS Learner
+</p>
+
 <p align="center">
 <a href="mailto:ptpk2810@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
@@ -18,10 +21,12 @@ Full Stack Developer | UI/UX Enthusiast | Web Developer
   </a>
 </p>
 
-🔭 About Me
+<br><hr>
+🔭 About Me<br><br>
 I'm a final-year Computer Science student at VIT Bhopal University with a strong foundation in full-stack development. My passion lies in building robust and scalable web applications and automating the entire software development lifecycle, from code to deployment. I thrive on solving complex problems and am always eager to apply my skills in modern web technologies, cloud services, and CI/CD pipelines to drive real-world solutions.
+<br><hr>
 
-🛠️ Tech Stack & Tools
+🛠️ Tech Stack & Tools<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge" />
@@ -38,40 +43,23 @@ I'm a final-year Computer Science student at VIT Bhopal University with a strong
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge" />
 </p>
+<br><hr>
 
+🏅 Certifications & Achievements<br><br>
+AWS Academy Graduate: Cloud Architecting (ETHNUS)<br>
 
-🚀 Key Projects
-Aura Design System
-Developed a comprehensive, enterprise-grade design system using TypeScript and React. I built a reusable UI component library with Vite and Storybook, supported by an automated Node.js-scripted CI/CD pipeline to ensure consistency and accelerate development across all web applications.
+NPTEL, IIT Kharagpur: Cloud Computing and Marketing Analysis<br>
 
-Food Delivery Platform
-Engineered a full-stack food delivery application. The backend is a secure Node.js/PostgreSQL API with JWT authentication, serving a dynamic React front end. I used Docker and Docker Compose to containerize the entire application stack and managed a full CI/CD lifecycle for deployment to the Render cloud platform.
+Coursera, Johns Hopkins University: HTML, CSS, and JavaScript for Web Developers<br>
 
-Resume Portfolio Website
-Designed and deployed a personal portfolio website to showcase my technical skills, projects, and professional experience. This project demonstrates proficiency in modern web development practices and serves as a central hub for my work.
+Finlatics: Business Analyst Experience Certification<br><br><hr>
 
-💼 Professional Experience
-Axxentraa NextGen Pvt Ltd | Business and Operations Intern
-June 2025 - September 2025
-Supported business operations and analytics, contributing to process optimization and strategic planning.
+⚙️🚀What I'm working on<br><br>
+Full‑Stack Developer crafting scalable web apps with clean architectures and seamless DX<br> 
 
-India Space Lab | Winter Internship Training Program
-December 2024 - January 2025
-Participated in a hands-on training program, gaining exposure to advanced space technologies and research methodologies.
+UI/UX Designer turning ideas into intuitive, accessible interfaces—from wireframes to pixels<br> 
 
-🏅 Certifications & Achievements
-AWS Academy Graduate: Cloud Architecting (ETHNUS)
+Building delightful user journeys and performant systems, end‑to‑end<br><br><hr> 
 
-NPTEL, IIT Kharagpur: Cloud Computing and Marketing Analysis
-
-Coursera, Johns Hopkins University: HTML, CSS, and JavaScript for Web Developers
-
-Finlatics: Business Analyst Experience Certification
-
-🎓 Education
-VIT Bhopal University: Bachelor of Technology in Computer Science (CSE Core) - CGPA: 8.63
-
-💡 Extra-Curricular & Hobbies
-Cyber Warriors Club: Core Member of the Technical Domain, contributing to workshops and events to raise cyber awareness.
-
-Hobbies: Reading Novels, watching anime, Drawing, and playing Badminton, piano, and guitar.
+<p align = "center">
+🎯Code meets craft: beautiful UI, robust APIs, and smooth developer workflows 💻</p><hr>
