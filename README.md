@@ -1,7 +1,7 @@
 <h1><p align="center">
 Hi, I'm Preesha Vashisth! 👋</h1></p>
-<p align="center">Full Stack Developer | UI/UX Enthusiast | AWS Learner |  Web Developer
-</p>
+<h3><p align="center">Full Stack Developer | UI/UX Enthusiast | AWS Learner |  Web Developer
+</p></h3>
 
 <p align="center">
 <a href="mailto:ptpk2810@gmail.com">
@@ -24,12 +24,12 @@ Hi, I'm Preesha Vashisth! 👋</h1></p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=1000&color=F7F7F7&center=true&vCenter=true&lines=Full-Stack+Developer;UI/UX+Designer" alt="Typing SVG">
 </p>
 
-<hr>
-🔭 About Me<br><br>
+<hr><h4>
+🔭 About Me<br><br></h4>
 She is a final-year Computer Science student at VIT Bhopal University with a strong foundation in full-stack development. Her passion lies in building robust and scalable web applications and automating the entire software development lifecycle, from code to deployment. She thrives on solving complex problems and is always eager to apply her skills in modern web technologies, cloud services, and CI/CD pipelines to drive real-world solutions.
 <br><hr>
-
-🛠️ Tech Stack & Tools<br>
+<h4>
+🛠️ Tech Stack & Tools<br></h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge" />
@@ -47,14 +47,14 @@ She is a final-year Computer Science student at VIT Bhopal University with a str
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge" />
 </p>
 <br><hr>
-
-🏅 Certifications & Achievements<br><br>
+<h4>
+🏅 Certifications & Achievements<br><br></h4>
 <img src="https://github.com/preesha73/preesha73/blob/main/certificate.png" alt="Certifications and Achievements" width = "35%"><br><hr>
-
-🏅 Skills<br><br>
+<h4>
+🏅 Skills<br><br></h4>
 <img src="https://github.com/preesha73/preesha73/blob/main/skills.png" alt="Certifications and Achievements" width = "45%"><br><hr>
-
-⚙️🚀What I'm working on<br>
+<h4>
+⚙️🚀What I'm working on<br></h4>
 <ul>
 <li>Full‑Stack Developer crafting scalable web apps with clean architectures and seamless DX.<br> </li>
 
