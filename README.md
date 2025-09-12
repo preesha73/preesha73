@@ -1,6 +1,6 @@
 <h1><p align="center">
 Hi, I'm Preesha Vashisth! 👋</h1></p>
-<p align="center">Full Stack Developer | CI/CD Enthusiast | AWS Learner
+<p align="center">Full Stack Developer | UI/UX Enthusiast | AWS Learner |  Web Developer
 </p>
 
 <p align="center">
@@ -20,8 +20,11 @@ Hi, I'm Preesha Vashisth! 👋</h1></p>
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" />
   </a>
 </p>
+<p align = "center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=1000&color=F7F7F7&center=true&vCenter=true&lines=Full-Stack+Developer;UI/UX+Designer" alt="Typing SVG">
+</p>
 
-<br><hr>
+<hr>
 🔭 About Me<br><br>
 She is a final-year Computer Science student at VIT Bhopal University with a strong foundation in full-stack development. Her passion lies in building robust and scalable web applications and automating the entire software development lifecycle, from code to deployment. She thrives on solving complex problems and is always eager to apply her skills in modern web technologies, cloud services, and CI/CD pipelines to drive real-world solutions.
 <br><hr>
@@ -46,20 +49,19 @@ She is a final-year Computer Science student at VIT Bhopal University with a str
 <br><hr>
 
 🏅 Certifications & Achievements<br><br>
-AWS Academy Graduate: Cloud Architecting (ETHNUS)<br>
+<img src="https://github.com/preesha73/preesha73/blob/main/certificate.png" alt="Certifications and Achievements" width = "35%"><br><hr>
 
-NPTEL, IIT Kharagpur: Cloud Computing and Marketing Analysis<br>
+🏅 Skills<br><br>
+<img src="https://github.com/preesha73/preesha73/blob/main/skills.png" alt="Certifications and Achievements" width = "45%"><br><hr>
 
-Coursera, Johns Hopkins University: HTML, CSS, and JavaScript for Web Developers<br>
+⚙️🚀What I'm working on<br>
+<ul>
+<li>Full‑Stack Developer crafting scalable web apps with clean architectures and seamless DX.<br> </li>
 
-Finlatics: Business Analyst Experience Certification<br><br><hr>
+<li>UI/UX Designer turning ideas into intuitive, accessible interfaces—from wireframes to pixels.<br> </li>
 
-⚙️🚀What I'm working on<br><br>
-Full‑Stack Developer crafting scalable web apps with clean architectures and seamless DX<br> 
-
-UI/UX Designer turning ideas into intuitive, accessible interfaces—from wireframes to pixels<br> 
-
-Building delightful user journeys and performant systems, end‑to‑end<br><br><hr> 
+<li>Building delightful user journeys and performant systems, end‑to‑end.<br><br><hr> </li>
+</ul>
 
 <p align = "center">
 🎯Code meets craft: beautiful UI, robust APIs, and smooth developer workflows 💻</p><hr>
