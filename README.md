@@ -28,7 +28,7 @@ She is a final-year Computer Science student at VIT Bhopal University with a str
 <h4>
 🛠️ Tech Stack & Tools<br></h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" /> -->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
@@ -53,6 +53,18 @@ She is a final-year Computer Science student at VIT Bhopal University with a str
 🏅 Skills<br><br></h4>
 <img src="https://github.com/preesha73/preesha73/blob/main/skills.png" alt="Certifications and Achievements" width = "45%"><br><hr>
 <h4>
+
+<h4>
+🐍 Contribution Snake<br><br>
+</h4>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/preesha73/preesha73/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/preesha73/preesha73/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Dark" />
+</p>
+<hr>
+
 ⚙️🚀What I'm working on<br></h4>
 <ul>
 <li>Full‑Stack Developer crafting scalable web apps with clean architectures and seamless DX.<br> </li>
