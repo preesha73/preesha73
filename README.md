@@ -57,9 +57,9 @@ She is a final-year Computer Science student at VIT Bhopal University with a str
 <h4>
 🐍 Contribution Snake<br><br>
 </h4>
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/preesha73/preesha73/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/preesha73/preesha73/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Dark" />
 </p>
