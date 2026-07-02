@@ -18,7 +18,7 @@ Hi, I'm Preesha Vashisth! 👋</h1></p>
   </a>
 </p>
 <p align = "center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=1000&color=F7F7F7&center=true&vCenter=true&lines=Full-Stack+Developer;UI/UX+Designer;Web+Developer" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=1000&color=F7F7F7&center=true&vCenter=true&lines=Full-Stack+Developer;UI/UX+Enthusiast;Web+Developer" alt="Typing SVG">
 </p>
 
 <hr><h4>
